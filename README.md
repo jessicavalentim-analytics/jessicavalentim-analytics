@@ -66,7 +66,7 @@ Intelligent decision-making is.
 <h2>GitHub Insights</h2>
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicavalentim-analytics&show_icons=false&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=jessicavalentim-analytics&hide_border=true"/>
 </p>
 
 <p align="center">
