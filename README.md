@@ -10,7 +10,7 @@ Founded by Jéssica Valentim
 </p>
 
 <p align="center">
-<img src="https://github.com/SEU_USERNAME.png" width="160" style="border-radius:50%;" />
+<img src="https://github.com/jessicavalentim-analytics.png" width="160" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Intelligent decision-making is.
 <h2>GitHub Insights</h2>
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicavalentim-analytics&show_icons=false&hide_border=true&title_color=111111&text_color=555555"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicavalentim-analytics&show_icons=false&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
